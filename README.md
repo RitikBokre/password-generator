@@ -1,3 +1,3 @@
 # password-generator
 
-Netlify Deployed Link : `https://generatepasswd.netlify.app`
+Netlify Deployed Link : https://generatepasswd.netlify.app
